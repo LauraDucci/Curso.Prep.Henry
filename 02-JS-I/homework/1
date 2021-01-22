@@ -1,0 +1,5 @@
+Variables: Espacio definido por un nombre en el que pueden guardarse datos de diferentes tipos.
+Strings: Tipo de variable. Como su nombre indica se trata de un 'hilo' de caracteres alfanumericos.
+Funciones (argumentos, return): Las funciones son secciones del codigo que realizan una tarea especifica. Reciben el argumento para realizar dicha tarea y devuelven un valor de retorno.
+Declaraciones if: Son un tipo de funcion que ejecutara un codigo solo si se cumple una determinada condicion.
+Valores booleanos (true, false): Valores que puede tomar una variable de tipo booleano para indicar si una declaracion es verdadera o falsa.
